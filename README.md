@@ -1,4 +1,4 @@
-<h1>⭐ Hey! Nice to see you.</h1>
+<h1>👋 Hey! Nice to see you.</h1>
 
 
 <p>You're at my Github and you need know something about me</br> I'm Gvidas, Front End developer from <img src="https://image.flaticon.com/icons/png/512/197/197612.png" width="13"/> <b>Vilnius, Lithuania</b>.</p>
@@ -16,13 +16,12 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-- 👋 Hi, I’m @Jullkio and I'm From Lithuania 
 - 👀 I’m interested in F1,Football and Trading Markets
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
+⭐
 
 - ✨“Things aren’t always #000000 and #FFFFFF”
 

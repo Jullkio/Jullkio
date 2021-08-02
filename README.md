@@ -17,11 +17,13 @@
 </p>
 
 - 👀 I’m interested in F1,Football and Trading Markets
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning everything 🤣
 - 💞️ I’m looking to collaborate on ...
+- 🥅 2021 Goals: Learn React
 - 📫 How to reach me ...
 
-⭐
+[<img align="left" alt="Jullkio_" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="pocius55_" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 - ✨“Things aren’t always #000000 and #FFFFFF”
 
